@@ -47,4 +47,4 @@ This project is built entirely with **HTML5** and **CSS3**, focusing on responsi
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/velvet-roast.git
+  https://velvet-roast.vercel.app
