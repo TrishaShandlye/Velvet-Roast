@@ -30,9 +30,8 @@ This project is built entirely with **HTML5** and **CSS3**, focusing on responsi
 ---
 
 ## Inspiration
-
-> “Coffee is not just a drink here — it’s a mood.”  
-> Velvet Roast was created to capture the calm, charm, and comfort of a perfect coffee moment.
+ “Coffee is not just a drink here — it’s a mood.”  
+Velvet Roast was created to capture the calm, charm, and comfort of a perfect coffee moment.
 
 ---
 
