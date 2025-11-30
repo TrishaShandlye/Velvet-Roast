@@ -26,13 +26,6 @@ This project is built entirely with **HTML5** and **CSS3**, focusing on responsi
 - **Google Fonts** – Playfair Display, Poppins  
 - **Custom color palette** – Inspired by velvet tones and café warmth  
 
----
-
-##  Preview
-
-![Velvet Roast Screenshot](<img width="1868" height="1027" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/4d9588e8-0284-4bbd-add8-af0427a0ea3a" />
-)  
-
 
 ---
 
@@ -46,5 +39,4 @@ This project is built entirely with **HTML5** and **CSS3**, focusing on responsi
 ##  How to View
 
 1. Clone this repository:  
-   https://github.com/TrishaShandlye/Velvet-Roast.git
   https://velvet-roast.vercel.app
