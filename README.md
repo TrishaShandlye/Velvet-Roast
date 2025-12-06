@@ -1,6 +1,6 @@
 #  Velvet Roast Café Website
 
-**Velvet Roast** is a modern, elegant café-themed website designed with a warm and luxurious aesthetic.  
+**Velvet Roast** is a modern, elegant cafe-themed website designed with a warm and luxurious aesthetic.  
 It reflects the calm mornings, soft lights, and cozy spaces where coffee feels like a treat — not a habit.  
 
 This project is built entirely with **HTML5** and **CSS3**, focusing on responsive design and a cohesive brand theme.
